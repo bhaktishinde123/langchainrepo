@@ -5,7 +5,7 @@ from PIL import Image
 from io import BytesIO
 
 # Set your Groq API key
-GROQ_API_KEY = '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'
+GROQ_API_KEY = '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'
 UNSPLASH_ACCESS_KEY = 'UsP5NZq0aLWj9SPXZWSB4kWPGUbQ7P9U5VvVlsrNz_Y'
 
 # Function to fetch images related to the topic
